@@ -1,5 +1,14 @@
 <?php
-
+/**
+ * InputParam - A fast, extensible PHP input Parameters Get class.
+ *
+ * @author      Manish Jakhaniya (https://www.facebook.com/manish.jakhaniya) 
+ *
+ * @link        http://github.com/manishpatel0609/InputParam
+ *
+ * @version     1.0
+ */
+ 
 class InputParam {
     /*
      * @var item String | Numeric
